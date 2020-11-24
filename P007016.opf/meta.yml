@@ -3,5 +3,27 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD19458
   title: 'སྐྱབས་རྗེ ༧་ཀརྨ་སྟོབས་རྒྱལ་རིན་པོ་ཆེའི་བཀའ་འབུམ། '
-  volume: ''
+  volume:
+    0000ff9f2b974feb95494d51179a1541:
+      image_group_id: I2PD19462
+      title: Volume 1 of
+      volume_number: 1
+      total_pages: 466
+    8244e08bee70416a83d7a2d79a0b5d30:
+      image_group_id: I2PD19463
+      title: Volume 2 of
+      volume_number: 2
+      total_pages: 462
+    d18e8721fd7941bba145528de72a3909:
+      image_group_id: I2PD19464
+      title: Volume 3 of
+      volume_number: 3
+      total_pages: 388
   author: ''
+ebook_metadata:
+  title: 'སྐྱབས་རྗེ ༧་ཀརྨ་སྟོབས་རྒྱལ་རིན་པོ་ཆེའི་བཀའ་འབུམ། '
+  author: ''
+  sku: P007016
+  cover: cover.jpg
+  layers:
+  - pagination
