@@ -5,21 +5,24 @@ source_metadata:
   title: 'སྐྱབས་རྗེ ༧་ཀརྨ་སྟོབས་རྒྱལ་རིན་པོ་ཆེའི་བཀའ་འབུམ། '
   author: ''
   volumes:
-    bb72cf5e41ee46af8f5fd128f71346ff:
+    0000ff9f2b974feb95494d51179a1541:
       image_group_id: I2PD19462
-      title: ''
+      title: Volume 1 of
       volume_number: 1
       total_pages: 466
-    79e493f14df34a59a3aed984129f03c1:
+      base_file: v001.txt
+    8244e08bee70416a83d7a2d79a0b5d30:
       image_group_id: I2PD19463
-      title: ''
+      title: Volume 2 of
       volume_number: 2
       total_pages: 462
-    38ee26c6f3a14772b9d908784af4c77d:
+      base_file: v002.txt
+    d18e8721fd7941bba145528de72a3909:
       image_group_id: I2PD19464
-      title: ''
+      title: Volume 3 of
       volume_number: 3
       total_pages: 388
+      base_file: v003.txt
 ebook_metadata:
   title: 'སྐྱབས་རྗེ ༧་ཀརྨ་སྟོབས་རྒྱལ་རིན་པོ་ཆེའི་བཀའ་འབུམ། '
   author: ''
