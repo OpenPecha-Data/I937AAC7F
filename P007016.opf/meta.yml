@@ -1,5 +1,7 @@
 id: P007016
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W2PD19458
   title: 'སྐྱབས་རྗེ ༧་ཀརྨ་སྟོབས་རྒྱལ་རིན་པོ་ཆེའི་བཀའ་འབུམ། '
@@ -23,10 +25,3 @@ source_metadata:
       volume_number: 3
       total_pages: 388
       base_file: v003.txt
-ebook_metadata:
-  title: 'སྐྱབས་རྗེ ༧་ཀརྨ་སྟོབས་རྒྱལ་རིན་པོ་ཆེའི་བཀའ་འབུམ། '
-  author: ''
-  sku: P007016
-  cover: cover.jpg
-  layers:
-  - pagination
