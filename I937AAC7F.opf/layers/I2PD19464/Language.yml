@@ -1,0 +1,99 @@
+id: 67e487b7ee6c41dab42e50d9bbc19d36
+annotation_type: Language
+revision: '00001'
+annotations:
+  b222149cac514279bbde696dc4c2272c:
+    span:
+      start: 40
+      end: 174
+    language: en
+  0345097d310a4296aed0777cac5c057b:
+    span:
+      start: 222
+      end: 621
+    language: en
+  90521278c6844ff3bdc75782393b008f:
+    span:
+      start: 728
+      end: 760
+    language: en
+  5055dbf5004240e59fbbe64757beae17:
+    span:
+      start: 821
+      end: 1378
+    language: en
+  58036747b8f0417184f77896abe13689:
+    span:
+      start: 7457
+      end: 7580
+    language: en
+  48509fb112fd49eea1ba4255dd686efe:
+    span:
+      start: 27887
+      end: 28084
+    language: en
+  4eca79433e3e4c38b1e56c1c1331f8c7:
+    span:
+      start: 49228
+      end: 49345
+    language: en
+  c5e58641703a4c6f947e27b51f089d2f:
+    span:
+      start: 107701
+      end: 107822
+    language: en
+  f83b69e98af74520ac6404a1117bee36:
+    span:
+      start: 119735
+      end: 119849
+    language: en
+  1f380da8c4c7459196546158900a7b0b:
+    span:
+      start: 133003
+      end: 133047
+    language: en
+  f266e2e28eac468eb4c9818ad1d0997f:
+    span:
+      start: 138068
+      end: 138197
+    language: en
+  b85b5dc25fee4c349be80975370db3bd:
+    span:
+      start: 142200
+      end: 142223
+    language: en
+  c58d3941d072434b830487582454ce5b:
+    span:
+      start: 160188
+      end: 160310
+    language: en
+  4e82c52a029e48848dea25f4617b1043:
+    span:
+      start: 167371
+      end: 167555
+    language: en
+  6b19d23b893343da917413c38ca63026:
+    span:
+      start: 173276
+      end: 173395
+    language: en
+  b36303ac195d4dfe82d3e6b5493c4f7a:
+    span:
+      start: 175076
+      end: 175579
+    language: en
+  97899a729caa44e4adf3a3c39fb012d7:
+    span:
+      start: 177802
+      end: 178344
+    language: en
+  4184bebb1e3b431d8f48c4f466aece05:
+    span:
+      start: 180341
+      end: 180364
+    language: en
+  729b2a704e2d43adb701c30f41afe93b:
+    span:
+      start: 180713
+      end: 180956
+    language: en
